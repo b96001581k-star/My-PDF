@@ -1,0 +1,7 @@
+# 테스트한 버전을 하한으로 둔다 (st.tabs의 key/default, st.badge 등 최신 API 사용).
+streamlit>=1.58
+openai>=3.46
+pypdf>=7.0
+# AES로 암호화된 PDF(열람 암호 없이 권한 암호만 걸린 문서 포함)를 읽으려면 필요하다.
+cryptography>=44
+python-dotenv>=1.0

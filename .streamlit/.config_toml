@@ -1,0 +1,10 @@
+[theme]
+# 라이트/다크 기본 테마를 그대로 쓰고 강조색만 지정한다.
+primaryColor = "#4F46E5"
+
+[server]
+# 첫 실행 시 이메일 입력 프롬프트 없이 바로 시작
+headless = true
+
+[browser]
+gatherUsageStats = false
